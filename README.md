@@ -1,6 +1,6 @@
 # PAX Makina — Factory Capability Showcase
 
-A responsive, static showcase built from factory photos and selected GoPro video previews. There is no build step or package installation.
+A responsive, static, bilingual (English / Türkçe) showcase built from factory photos and selected GoPro video previews. Use the EN / TR switch; the selection is remembered, and `?lang=tr` opens the Turkish version. There is no build step or package installation.
 
 ## Run locally
 
@@ -16,7 +16,7 @@ Open `index.html` in a browser, or serve this directory with any static web serv
 ## Included evidence
 
 - Optimized WebP stills in `assets/`.
-- Three low-resolution GoPro preview clips in `media/`, embedded as browser-playable MP4 video.
+- Two low-resolution GoPro preview clips in `media/`, embedded as MP4 video.
 - Original full-resolution camera footage is intentionally kept out of this website repository. Some source clips are over GitHub's 100 MiB individual file limit.
 
 The text describes visible activity in the supplied media. Add independently verified capacity, quality, inspection and compliance documentation before using this as a complete tender submission.
