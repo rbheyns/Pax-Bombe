@@ -1,0 +1,145 @@
+[
+  {
+    "id": "brake",
+    "model": "Baykal APHS 31120",
+    "sourcePage": "https://www.baykal.com.tr/products/aphs.html",
+    "sourceImage": "https://www.baykal.com.tr/images/urunler/1649769184_APHS.jpg",
+    "localAsset": "assets/machines/catalog/brake.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Exact model marking APHS 31120 visible in the manufacturer image.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "saw",
+    "model": "Bekamak BMSO 320",
+    "sourcePage": "https://www.bekamak.com/urun/bmso-320/en",
+    "sourceImage": "https://www.bekamak.com/images/urunler/bekamak-bmso-320-32_17499.jpg",
+    "localAsset": "assets/machines/catalog/saw.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Exact model product page and housing marking.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "manual",
+    "model": "GeKaMac GKM 500-2W",
+    "sourcePage": "https://gedik.com.tr/en/welding/welding-machine-gkm-500-2w",
+    "sourceImage": "https://file.gedik.com.tr/portal/approval_documents/GKM%20500-2W.png",
+    "localAsset": "assets/machines/catalog/manual.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Exact-model manufacturer product page.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "smallroller",
+    "model": "Isıtan IR 1050 x 75",
+    "sourcePage": "https://www.machinerycanyonn.com/isitan-%C4%B1r-1050-x-75-motorized-3rolls-plate-bending-machine",
+    "sourceImage": "https://static.ticimax.cloud/56460/uploads/urunresimleri/buyuk/isitan-ir-1050-x-75-motorized-3rolls-p-091-19.png",
+    "localAsset": "assets/machines/catalog/smallroller.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Exact model dealer page and front marking.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "bead",
+    "model": "Isıtan IBKS 2.5",
+    "sourcePage": "https://www.isitan.com/isitan-urunler/kordon-makinalari/motorlu-kordon-makinalari-ibks-serisi/ibks-25-motorlu-kordon-makinalari/",
+    "sourceImage": "https://www.isitan.com/wp-content/uploads/ISITAN-IBKS-25.jpg",
+    "localAsset": "assets/machines/catalog/bead.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Exact model manufacturer page.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "nuris",
+    "model": "Nuriş SAW 1000B",
+    "sourcePage": "https://nezirogluhirdavat.com/products/nuri%CC%87s-saw1000b-tozalti-kaynak-maki%CC%87nesi%CC%87",
+    "sourceImage": "https://nezirogluhirdavat.com/cdn/shop/files/NURIS-SAW1000B-TOZALTI-KAYNAK-MAKINESI.png?v=1688853886",
+    "localAsset": "assets/machines/catalog/nuris.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Exact model supplier listing and cabinet marking.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "power5000",
+    "model": "GeKaMac Power MIG 5000 W",
+    "sourcePage": "https://www.kaynakmagazam.com/urun/gekamac-power-mig-5000-su-sogutmali-gazalti-kaynak-makinesi",
+    "sourceImage": "https://www.kaynakmagazam.com/idea/mj/39/myassets/products/775/gekamac-power-mig-5000-su-sogutmali-gazalti-kaynak-makinesi.png?revision=1784275137",
+    "localAsset": "assets/machines/catalog/power5000.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Water-cooled configuration supplier listing.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "power400",
+    "model": "GeKaMac Power MIG 400",
+    "sourcePage": "https://gedik.com.tr/kaynak/kaynak-ve-kesme-makineleri/gazalti-kaynak-makineleri-mig-mag/power-mig-400",
+    "sourceImage": "https://file.gedik.com.tr/portal/approval_documents/PoWer%20MIG%20400.jpg",
+    "localAsset": "assets/machines/catalog/power400.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Exact model manufacturer product photo.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "magma",
+    "model": "Magmaweld RS 350 MK",
+    "sourcePage": "https://www.tokgozler.com/magmaweld-rs-350-mk-gazalti-mig-mag-kaynak-makinesi-3-faz-grubu",
+    "sourceImage": "https://static.ticimax.cloud/3384/uploads/urunresimleri/buyuk/magmaweld-rs-350-mk-350-amper-gazalti--0a34cf.jpg",
+    "localAsset": "assets/machines/catalog/magma.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Archived exact model supplier page, not RS350M or PRO replacement.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "pulse",
+    "model": "Kolarc MX 500",
+    "sourcePage": "https://www.teknikstore.com/urun/kolarc-mx500-pulse-mig-mag-gazalti-kaynak-makinesi",
+    "sourceImage": "https://www.teknikstore.com/idea/kq/91/myassets/products/741/mx500-pulse.jpg?revision=1697143329",
+    "localAsset": "assets/machines/catalog/pulse.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "MX500 Pulse product reference; appearance/configuration can differ with year.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  },
+  {
+    "id": "spot",
+    "model": "Şimşek MP 10 kVA",
+    "sourcePage": "https://www.simsekkaynakmakina.com/tr/urunler.asp?id=56&urunid=545",
+    "sourceImage": "https://www.simsekkaynakmakina.com/tr/urun_md/resimler/res_md_14_4_2014_16_48_57_9828.jpg",
+    "localAsset": "assets/machines/catalog/spot.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "matchNote": "Exact model manufacturer page.",
+    "rights": "Manufacturer/supplier copyright. No explicit reuse licence found; permission must be confirmed before public release."
+  }
+]

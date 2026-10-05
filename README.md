@@ -16,7 +16,17 @@ Open `index.html` in a browser, or serve this directory with any static web serv
 ## Included evidence
 
 - Optimized WebP stills in `assets/`.
-- Two low-resolution GoPro preview clips in `media/`, embedded as MP4 video.
+- Eleven edited factory videos in `media/clips/`, embedded as 1280 × 720 H.264/AAC MP4. Key process stages are retained while repetitive activity is shortened. Each export is below 100 MB; the largest is approximately 47.4 MB.
 - Original full-resolution camera footage is intentionally kept out of this website repository. Some source clips are over GitHub's 100 MiB individual file limit.
 
 The text describes visible activity in the supplied media. Add independently verified capacity, quality, inspection and compliance documentation before using this as a complete tender submission.
+
+## Machinery showcase
+
+Twelve equipment groups from the supplied factory photos and video review are presented in a bilingual catalog. Native buttons filter cutting, forming, welding and workshop/handling groups; native HTML details reveal further capability information. Categories describe processes rather than asserting a verified machine quantity. Specifications are limited to clearly transcribed nameplate ratings: Baykal shear 3,060 mm / 8 mm St42, Baykal press brake 120 t and Konhidroliksan press 60 t. The company machine list is still required to reconcile identities, quantities and operating limits. Evidence is held in the parent machine-inventory directory.
+
+Design research: [TRUMPF equipment overview](https://www.trumpf.com/en_GB/products/machines-systems/) informed process-based browsing; [W3C disclosure guidance](https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/) informed expandable details. No third-party code was copied. Implementation uses native HTML/CSS/JavaScript (no added library dependency), supplied PAX photography and optimized lazy-loaded WebP images. Sourced equipment imagery is documented below. Filters expose pressed state, details work with keyboard and without scripting, and the result is tested at desktop and mobile widths. Custom PAX work remaining: company verification of machine names, counts, operating capacities and project suitability.
+
+## Standardized equipment imagery
+
+The machinery catalog uses 22 images, all physically 1200 × 900 WebP, with proportional sizing. The full-width individual-model library follows the active category filter. Eleven sourced product images and eleven factory images are clearly distinguished; originals are preserved. See `assets/machines/image-sources.json` for photo sources and match notes, and `../machine-inventory/MACHINE-IMAGE-SOURCES.md` for rejected mismatches and outstanding publication permissions. No new third-party code or dependencies were introduced.
