@@ -16,7 +16,7 @@ Open `index.html` in a browser, or serve this directory with any static web serv
 ## Included evidence
 
 - Optimized WebP stills in `assets/`.
-- Eleven edited factory videos in `media/clips/`, embedded as 1280 × 720 H.264/AAC MP4. Key process stages are retained while repetitive activity is shortened. Each export is below 100 MB; the largest is approximately 47.4 MB.
+- Eleven edited process/equipment videos plus a 36-second factory overview in `media/clips/`, embedded as 1280 × 720 MP4. Key process stages are retained while repetitive activity is shortened. The overview is silent; the individual process videos retain factory audio. Each export is below 100 MB; the largest is approximately 47.4 MB.
 - Original full-resolution camera footage is intentionally kept out of this website repository. Some source clips are over GitHub's 100 MiB individual file limit.
 
 The text describes visible activity in the supplied media. Add independently verified capacity, quality, inspection and compliance documentation before using this as a complete tender submission.
@@ -30,3 +30,7 @@ Design research: [TRUMPF equipment overview](https://www.trumpf.com/en_GB/produc
 ## Standardized equipment imagery
 
 The machinery catalog uses 22 images, all physically 1200 × 900 WebP, with proportional sizing. The full-width individual-model library follows the active category filter. Eleven sourced product images and eleven factory images are clearly distinguished; originals are preserved. See `assets/machines/image-sources.json` for photo sources and match notes, and `../machine-inventory/MACHINE-IMAGE-SOURCES.md` for rejected mismatches and outstanding publication permissions. No new third-party code or dependencies were introduced.
+
+## Factory showcase
+
+The opening factory tour introduces the workshop in 36 seconds. A dedicated drum-forming feature offers five stage shortcuts; selecting a stage seeks and plays the film. The production gallery uses frames from the supplied footage, linking formed drums, vessel bodies and bent panels to relevant processes. Machinery cards link only to recordings of the corresponding equipment. All copy, stage labels and enquiry subjects are bilingual. Project and visit links open an email draft; they do not submit or send messages. The email is verified against [PAX's official contact page](https://www.paxmakina.com/contact-us). Machine capacities and production suitability still require company confirmation.
